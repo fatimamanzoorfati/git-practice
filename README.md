@@ -1,2 +1,3 @@
 # git-practice
-This is my econd repo
+This is my second repository.
+Author: Fatima Manzoor.
